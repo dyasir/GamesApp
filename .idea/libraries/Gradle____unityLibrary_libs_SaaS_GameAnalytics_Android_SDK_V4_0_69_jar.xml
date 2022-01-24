@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: ./unityLibrary/libs/SaaS_GameAnalytics_Android_SDK_V4.0.69.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/unityLibrary/libs/SaaS_GameAnalytics_Android_SDK_V4.0.69.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

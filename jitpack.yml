@@ -1,0 +1,6 @@
+jdk:
+ - openjdk8
+
+install:
+ - ./gradlew :unityLibrary:build :unityLibrary:publishToMavenLocal
+ - find . -name "*.aar"

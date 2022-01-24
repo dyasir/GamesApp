@@ -1,0 +1,6 @@
+# Project exclude paths
+/.gradle/
+/launcher/build/
+/launcher/build/intermediates/javac/debug/classes/
+/unityLibrary/build/
+/unityLibrary/build/intermediates/javac/debug/classes/

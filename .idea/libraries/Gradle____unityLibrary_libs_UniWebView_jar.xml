@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: ./unityLibrary/libs/UniWebView.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/unityLibrary/libs/UniWebView.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
